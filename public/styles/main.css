@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px;
+}
+
+a {
+  border: 2px solid black;
+  padding: 1em 2em;
+  margin-right: 5px;
+}
+
+div {
+  margin-top: 30px;
+}
+
+h1 {
+}
